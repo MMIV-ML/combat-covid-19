@@ -15,4 +15,4 @@ With this call for proposals we wish to contribute to the global response to the
 
 ## Data sharing / open source / open science
 
-https://www.wired.com/story/data-sharing-open-source-software-combat-covid-19/
+- https://www.wired.com/story/data-sharing-open-source-software-combat-covid-19/
